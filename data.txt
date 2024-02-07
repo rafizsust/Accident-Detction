@@ -1,0 +1,6 @@
+train: ../rafiz/images/training
+val: ../rafiz/labels/validation
+#number of classes
+nc: 3
+#class names
+names: ['car','accident','person']
